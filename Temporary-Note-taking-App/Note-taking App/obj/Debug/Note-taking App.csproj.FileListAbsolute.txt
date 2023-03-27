@@ -1,0 +1,11 @@
+C:\Users\Omar\Source\Repos\Temporary-Note-taking-App\Note-taking App\bin\Debug\Note-taking App.exe.config
+C:\Users\Omar\Source\Repos\Temporary-Note-taking-App\Note-taking App\bin\Debug\Note-taking App.exe
+C:\Users\Omar\Source\Repos\Temporary-Note-taking-App\Note-taking App\bin\Debug\Note-taking App.pdb
+C:\Users\Omar\Source\Repos\Temporary-Note-taking-App\Note-taking App\obj\Debug\Note-taking App.csproj.AssemblyReference.cache
+C:\Users\Omar\Source\Repos\Temporary-Note-taking-App\Note-taking App\obj\Debug\Note-taking App.csproj.SuggestedBindingRedirects.cache
+C:\Users\Omar\Source\Repos\Temporary-Note-taking-App\Note-taking App\obj\Debug\Note_taking_App.Form1.resources
+C:\Users\Omar\Source\Repos\Temporary-Note-taking-App\Note-taking App\obj\Debug\Note_taking_App.Properties.Resources.resources
+C:\Users\Omar\Source\Repos\Temporary-Note-taking-App\Note-taking App\obj\Debug\Note-taking App.csproj.GenerateResource.cache
+C:\Users\Omar\Source\Repos\Temporary-Note-taking-App\Note-taking App\obj\Debug\Note-taking App.csproj.CoreCompileInputs.cache
+C:\Users\Omar\Source\Repos\Temporary-Note-taking-App\Note-taking App\obj\Debug\Note-taking App.exe
+C:\Users\Omar\Source\Repos\Temporary-Note-taking-App\Note-taking App\obj\Debug\Note-taking App.pdb
